@@ -7,7 +7,7 @@ require 'recipe/common.php';
 set('application', 'alex');
 
 // Project repository
-set('repository', 'https://github.com/designrubenz/alex-wordpress.git');
+set('repository', 'https://github.com/designrubenz/wordpress-alex.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
 set('git_tty', true); 
